@@ -39,7 +39,6 @@ print('Done!')
 print(list(zip(data.keys(), data.values())))
 
 #sex = 'femal' if 'member_ico1' in s else 'male'
-#print(s)
 '''
 print(landlord_imgs)
 print(sexes)
